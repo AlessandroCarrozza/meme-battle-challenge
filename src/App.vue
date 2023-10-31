@@ -16,7 +16,8 @@ export default {
     },
   mounted() {
     getMeme();
-  }
+  },
+
 }
 </script>
 
