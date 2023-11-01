@@ -23,7 +23,7 @@ export default {
 
 <template>
   <AppHeader></AppHeader>
-  <AppMain></AppMain>
+  <router-view></router-view> <!-- componente dinamica -->
 </template>
 
 <style scoped lang="scss">
